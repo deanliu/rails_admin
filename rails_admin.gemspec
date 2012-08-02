@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'bootstrap-sass', ['~> 2.0', '>= 2.0.3']
   gem.add_dependency 'jquery-ui-rails', ['>= 0.5', '< 2']
   gem.add_dependency 'builder', '~> 3.0'
-  gem.add_dependency 'coffee-rails', '~> 3.1'
+  gem.add_dependency 'coffee-rails'
   gem.add_dependency 'haml', '~> 3.1'
   gem.add_dependency 'jquery-rails', '>= 1.0.17'
   gem.add_dependency 'kaminari', '~> 0.12'
